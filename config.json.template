@@ -1,0 +1,10 @@
+{
+  "from_addr": "email@gmail.com",
+  "app_pass": "gmail app pass",
+  "subject": "Test Email",
+  "to_list": [
+    "abc@gmail.com",
+    "xyz@yahoo.com",
+  ],
+  "num_workers": 15
+}
